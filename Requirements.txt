@@ -1,0 +1,8 @@
+Are you expert in Python scrapping
+The project is related to Telegram group members scrapping
+https://youtu.be/XNmOWUYRcVw
+See this video
+Same software with same functions
+This software scraps username IDs from 1 group and adds to other Telegram group
+Please do your complete research on this
+And tell me
